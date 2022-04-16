@@ -1,8 +1,8 @@
 <?php
 
-function fn_strlen($s){
+function fn_strlen($string){
     $count = 0;
-    while($s[$count] != null){
+    while($string[$count] != null){
         $count++;
     }
     return $count;

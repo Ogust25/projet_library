@@ -1,7 +1,7 @@
 <?php
 
-function fn_empty($v){
-    if ($v == null) {
+function fn_empty($var){
+    if ($var == null) {
        return "empty";
     }
 }
