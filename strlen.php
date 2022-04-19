@@ -1,11 +1,11 @@
 <?php
 
 function fn_strlen($string){
-    $count = 0;
-    while($string[$count] != null){
-        $count++;
+    $i = 0;
+    while(isset($string[$i]) != null){
+        $i++;
     }
-    return $count;
+    return $i;
 }
 
 ?>
