@@ -4,8 +4,9 @@ Library de fonctions php.
 
 ## Fonctions et leurs états :
 
-- fn_empty() : fonctionelle
-- fn_strlen() : fonctionelle
-- fn_strtolower() : fonctionelle
-- fn_strtoupper() : fonctionelle
-- fn_sort() : non-fonctionelle
+- fn_empty() : fonctionnelle
+- fn_count() : fonctionnelle
+- fn_strlen() : fonctionnelle
+- fn_strtolower() : fonctionnelle
+- fn_strtoupper() : fonctionnelle
+- fn_sort() : non-fonctionnelle
