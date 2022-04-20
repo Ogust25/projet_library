@@ -10,4 +10,4 @@ Library de fonctions php.
 - fn_strtolower() : fonctionnelle
 - fn_strtoupper() : fonctionnelle
 - fn_sort() : non-fonctionnelle
-- fn_intval() : non-fonctionnelle
+- fn_intval() : fonctionnelle (uniquement avec des strings)
