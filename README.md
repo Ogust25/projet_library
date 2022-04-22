@@ -14,3 +14,4 @@ Library de fonctions php.
 - fn_trim() : fonctionnelle (uniquement les espaces)
 - fn_strstr() : fonctionnelle
 - fn_str_replace() : fonctionnelle
+- fn_strcmp() : fonctionnelle
