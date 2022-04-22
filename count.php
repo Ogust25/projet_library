@@ -2,7 +2,7 @@
 
 function fn_count($array){
     $count = 0;
-    while ($array[$count] != null) {
+    while (isset($array[$count]) != null) {
         $count++;
     }
     return $count;
