@@ -12,3 +12,4 @@ Library de fonctions php.
 - fn_sort() : non-fonctionnelle
 - fn_intval() : fonctionnelle (uniquement avec des strings)
 - fn_trim() : fonctionnelle (uniquement les espaces)
+- fn_strstr() : fonctionnelle
