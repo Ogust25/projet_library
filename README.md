@@ -16,3 +16,5 @@ Library de fonctions php.
 - fn_str_replace() : fonctionnelle
 - fn_strcmp() : fonctionnelle
 - fn_array_diff() : non-fonctionnelle
+- fn_is_number(): fonctionnelle
+- fn_is_array(): fonctionnelle
